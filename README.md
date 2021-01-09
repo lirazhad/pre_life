@@ -17,6 +17,10 @@ Log file - The only situation we may get access to your PII is when you personal
 How we use your information
 In above situation, we guarantee that your PII will only be used for contacting you and improving our services. We will never use such information (e.g. your name and email address) for any other purposes, such as to further market our products, or to disclose your personal information to a third party for commercial gains.
 
+On some platforms, Star Chart allows English speaking users to control Star Chart with Voice Commands. These voice commands are interpreted by the OS's Voice API. On Android, using the Voice API for voice commands requires us to ask all users in all territories to give permission for Star Chart to 'Record Audio'.
+
+We do not collect any audio from your device unless you specifically trigger the voice command function, and we do not share that data with anyone else other than as required by the API to interpret the audio commands. For example, some voice command software sends audio command snippets to a server where they are analysed & interpreted before the results are returned to the app so that your commands can be actioned. The companies we currently use for voice recognition are Google and Microsoft - details on how these companies treat your voice data will have to be reviewed on their own sites.
+
 Contact us
-It should be noted that whether or not to send us your feedback or bug report is a completely voluntary initiative upon your own decision. If you have concern about your PII being misused, or if you want further information about our privacy policy and what it means, please feel free to email us at abishkking@gmail.com, we will endeavor to provide clear answers to your questions in a timely manner.
+It should be noted that whether or not to send us your feedback or bug report is a completely voluntary initiative upon your own decision. If you have concern about your PII being misused, or if you want further information about our privacy policy and what it means, please feel free to email us at opeliatech@gmail.com, we will endeavor to provide clear answers to your questions in a timely manner.
 
